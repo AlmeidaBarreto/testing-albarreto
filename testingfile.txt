@@ -1,5 +1,5 @@
 "Hello, this is my first time testing GitHub"
   -Introduction
   -Practice
-  -Upload
+  -Check History
   -Create File
